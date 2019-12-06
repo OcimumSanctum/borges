@@ -12,7 +12,7 @@ gem 'pg', '1.1.4'
 gem 'psql', '~> 0.0.1'
 gem 'graphql', '1.9.12'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
